@@ -11,14 +11,7 @@ Item-Item: Itidentifies global product associations from user ratings, but uses 
 
 In Content-Based Filtering, this recommendation system focuses on the products themselves and recommends other products that have similar attributes. It relies on the characteristics of the products themselves, so it doesn’t rely on other users to interact with the products before making a recommendation.
 
-In this notebook, I will attempt at implementing these two systems to recommend movies and evaluate them to see which one performs better.
-
-    Background on the MovieLens dataset for recommender system.
-    How to load and process the data.
-    How to do exploratory data analysis.
-    The 2 different types of recommendation engines.
-    How to develop a collaborative filtering model based on user ratings.
-    How to develop a content-based recommendation model based on movie genres.
+In this notebook, I will only implement the collaborative recommender system, where I will evaluate the user and item recommender to see which one performs better.
 
 The MovieLens Dataset
 

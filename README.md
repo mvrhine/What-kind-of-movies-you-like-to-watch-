@@ -1,5 +1,5 @@
 # What-kind-of-movies-you-like-to-watch?
-Movie Recommendation using Collaborative and Content Based Filtering
+Movie Recommendation using Collaborative Filtering
 
 There are two types of recommendation systems, Content-Based and Collaborative Filtering. Collaborative Filtering focuses on the similarity attribute of the users and it finds people with similar tastes based on a similarity measure from the large group of users. In contrast, content-based recommendation systems focus on the attributes of the items and give you recommendations based on the similarity between them.
 
